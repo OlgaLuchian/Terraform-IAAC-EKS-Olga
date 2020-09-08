@@ -5,11 +5,11 @@ Terraform 0.12.19
 
 
 ### Change the following lines         # Will be used to set backend.tf
-s3_bucket = "eks-olga-test"                
-vpc_id = "vpc-0be9ccc4b9e882d76"
-subnet1 = "subnet-002d82f91c37cabe5"
-subnet2 = "subnet-004717d570ec9f070"
-subnet3 = "subnet-004717d570ec9f070"
+s3_bucket = "your bucket name"                
+vpc_id = "your VPC ID"
+subnet1 = "your subnet ID 1" 
+subnet2 = "your subnet ID 2"
+subnet3 = "your subnet ID 3"
 
 
 
