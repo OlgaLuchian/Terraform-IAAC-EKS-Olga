@@ -1,4 +1,4 @@
-# terraform-iaac-eks
+# Terraform-IAAC-EKS
 
 Prerequisites:
 Terraform 0.12.19
